@@ -1,0 +1,9 @@
+{
+  "id": "l5r-symbols-replacer",
+  "name": "L5R Symbols Replacer",
+  "version": "1.6.2",
+  "minAppVersion": "1.5.0",
+  "description": "Display Legend of the Five Rings icons within obsidian via syntax. Convert the syntax to attachment markup to allow for icons to display after publishing.",
+  "author": "MF False",
+  "isDesktopOnly": false
+}

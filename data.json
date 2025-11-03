@@ -1,0 +1,6 @@
+{
+  "textFallback": true,
+  "iconSize": 18,
+  "baseUrl": "vault:/Attachments/symbols",
+  "embedSize": 18
+}

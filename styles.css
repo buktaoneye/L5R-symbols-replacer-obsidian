@@ -1,0 +1,23 @@
+/* Icon styling */
+.l5r-symbol {
+  display: inline-block;
+  vertical-align: text-bottom;
+  width: var(--l5r-size, 18px);
+  height: var(--l5r-size, 18px);
+  line-height: var(--l5r-size, 18px);
+  margin: 0 0.1em;
+}
+.l5r-symbol.l5r-has-icon {
+  background-image: var(--l5r-url);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center center;
+}
+.l5r-symbol.l5r-fallback {
+  font-family: ui-monospace, Menlo, Consolas, monospace;
+  font-size: 0.9em;
+  padding: 0 2px;
+  border-radius: 4px;
+  background: var(--background-modifier-hover);
+  color: var(--text-normal);
+}
